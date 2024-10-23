@@ -1,0 +1,7 @@
+title = "ESDStudioProject"
+[project_info]
+name = "MOAB"
+base_directory = "C:\\Users\\joao_\\.Minhas Coisas\\mods\\Elden Ring\\Mod Making\\ESDStudio\\Projects\\MyProject"
+game_directory = "C:\\Program Files (x86)\\Steam\\steamapps\\common\\DARK SOULS III\\Game Modding"
+mod_directory = "C:\\Users\\joao_\\.Minhas Coisas\\mods\\Dark souls 3\\ModEngine\\Mods\\MOAB"
+game = "ds3"
